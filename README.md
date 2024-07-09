@@ -2,17 +2,23 @@
 Note Taker
 
 Description
+
 This is a project that can be used to generate/write and save multiple notes. 
 
 Usage
+
 Express.js back end and will save and retrieve note data from a JSON file.
 
 GitHub 
 
+https://github.com/stevelomax1
+
 GitHub Repository 
+
 https://github.com/stevelomax1/take-notes
 
 Heroku Deployment
+
 https://take-notes-17996ff3ea0d.herokuapp.com/notes
 
 Screenshot
